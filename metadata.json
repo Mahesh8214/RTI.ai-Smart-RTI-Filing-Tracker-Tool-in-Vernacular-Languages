@@ -1,0 +1,5 @@
+{
+  "name": "RTI.ai - Your AI Assistant for Right to Information",
+  "description": "An AI-powered web application for the Indian population to simplify the process of filing and tracking Right to Information (RTI) requests. Users can describe their problem in plain language (including Hindi), and the app will generate a formal RTI draft, suggest the correct government department, and provide a downloadable PDF of the application.",
+  "requestFramePermissions": []
+}
