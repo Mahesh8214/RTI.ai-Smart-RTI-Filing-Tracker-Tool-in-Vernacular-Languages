@@ -47,7 +47,7 @@ This project leverages Google Gemini (AI Studio) for intelligent query synthesis
 
 ## ✨ Core Features
 
-- 🎙️ **Vernacular Query Input**: Accepts natural language input (typed or voice) in Hindi or English.
+- 🎙️ **Vernacular Query Input**: Accepts natural language input in Hindi or English.
 - 🤖 **AI-Powered Drafting**: Uses **Gemini LLM** to reformulate raw grievances into legal RTI requests.
 - 🏛️ **Department Prediction**: Suggests appropriate government office using keywords and AI mapping.
 - 📄 **Auto-Generated PDF**: Produces RTI documents in downloadable, printable format.
@@ -106,7 +106,7 @@ Gemini responds with a structured and respectful legal draft in Hindi, ready to 
 
 ## 📈 Future Scope
 
-* 🌍 **Multi-language Support**: Add Marathi, Bengali, Tamil using Bhashini or IndicTrans.
+* 🌍 **Multi-language Support**: Add Marathi, Bengali, Tamil using Bhashini or IndicTrans and using voice also .
 * 🤝 **Digital Filing Integration**: Direct RTI submission to [https://rtionline.gov.in](https://rtionline.gov.in)
 * 🧾 **Auto-Fill Aadhaar/DigiLocker Integration**
 * 📱 **Mobile App (React Native)**: One-click RTI filing for Bharat’s 600M smartphone users.
