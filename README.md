@@ -16,7 +16,7 @@ This project leverages Google Gemini (AI Studio) for intelligent query synthesis
 
 ## 🏗️ Project Structure
 
-```
+```plaintext
 
 📦 rti-ai
 ┣ 📁 components/
